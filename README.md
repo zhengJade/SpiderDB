@@ -1,2 +1,2 @@
-# EasyDB
+# SpiderDB
 database demo
